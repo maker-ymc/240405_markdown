@@ -82,7 +82,7 @@ abstract class Main(){
 
 ---
 
-<div-align="center">
+<div align="center">
 이 문장은 가운데 정렬을 하고 싶어
 </div>
 
