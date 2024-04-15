@@ -84,7 +84,7 @@ abstract class Main(){
 
 <div-align="center">
 이 문장은 가운데 정렬을 하고 싶어
-<div>
+</div>
 
 <div align="right">
 이 문장은 오른쪽 정렬을 하고싶어
