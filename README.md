@@ -77,7 +77,7 @@ abstract class Main(){
 
 링크연결  
 네이버 쇼핑 갈고양
-[![네이버 갈고양](https://cdn.pixabay.com/photo/2021/08/27/10/16/cat-6578336_1280.jpg)](https://shopping.naver.com)
+[![가게열었어](https://images.unsplash.com/photo-1472851294608-062f824d29cc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://shopping.naver.com)
 
 
 ---
